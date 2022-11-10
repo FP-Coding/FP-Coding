@@ -1,4 +1,4 @@
-<h1 align="center">Olá 👋, pessoa meu nome é Felipe Pinto</h1>
+<h1 align="center">Olá  pessoa👋, meu nome é Felipe Pinto</h1>
 <h3 align="center">Uma pessoa entusiasmada com tecnologia</h3>
 
 - 🌱 Atualmente estou estudando na Trybe **para me tornar um desenvolvedor FullStack**
