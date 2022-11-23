@@ -3,19 +3,6 @@
 
 - 🌱 Atualmente estou estudando na Trybe **para me tornar um desenvolvedor FullStack**
 
-<h3 align="center">⚡Fundamentos⚡</h3>
-
-- Já me formei no módulo de Fundamentos onde eu aprendi em:
-<h4 align="center">⚡ HardSkills</h4>
-
-- HTML5, 
-- CSS3, 
-- Javascript.
-- Git,
-- Nvm,
-- Jest
-- Unix e Bash
-
 <h4 align="center">⚡ SoftSkills</h4>
 
 - Pensamento Crítico,
