@@ -1,9 +1,9 @@
 <h1 align="center">Olá  pessoa👋, meu nome é Felipe Pinto</h1>
-<h3 align="center">Uma pessoa entusiasmada com tecnologia</h3>
+<h2 align="center">Uma pessoa entusiasmada com tecnologia</h3>
 
 - 🌱 Atualmente estou estudando na Trybe **para me tornar um desenvolvedor FullStack**
 
-<h4 align="center">⚡ SoftSkills</h4>
+<h3 align="center">⚡ SoftSkills</h4>
 
 - Pensamento Crítico,
 - Inteligência Emocional,
@@ -12,7 +12,7 @@
 - Liderança,
 - Criatividade.
 
-<h4 align="center">⚡ Curiosidades</h4>
+<h3 align="center">⚡ Curiosidades</h4>
 <p weigth="bold">Sou uma pessoa apaixonada por aprender e criar coisas.</p>
 
 <h3 align="left">Para entrar em contato:</h3>
