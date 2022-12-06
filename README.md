@@ -72,7 +72,7 @@
 </p>
 
 
-  <span>
+<!--   <span>
     <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fp-coding&show_icons=true&locale=en&layout=compact" alt="fp-coding" />
   </span>
 
@@ -83,7 +83,7 @@
 
   <span>
     <img align="right" width="30%"  src="https://github-readme-streak-stats.herokuapp.com/?user=fp-coding&" alt="fp-coding" />
-  </span>
+  </span> -->
 
 
 
