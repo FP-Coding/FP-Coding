@@ -7,7 +7,8 @@
 
 - Pensamento Crítico,
 - Inteligência Emocional,
-- Colaboração entre equipes,
+- Adaptabilidade,
+- Colaboração,
 - Comunicação,
 - Liderança,
 - Criatividade.
