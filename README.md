@@ -1,31 +1,25 @@
-<h1 align="center">Olá  pessoa👋 <br /> 
-  Sou um apaixonado por Tecnologia</h1>
+<h1 align="center">Olá,  pessoal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> 
+  Sou o Felipe, um apaixonado por Tecnologia </h1>
 
 - 🌱 Atualmente estou estudando na Trybe **para me tornar um desenvolvedor FullStack**
 
-<h3 align="center">⚡ SoftSkills</h4>
-
-- Pensamento Crítico,
-- Inteligência Emocional,
-- Adaptabilidade,
-- Colaboração,
-- Comunicação,
-- Liderança,
-- Criatividade.
-
-<h3 align="center">⚡ Curiosidades</h4>
-<p weigth="bold">Sou uma pessoa apaixonada por aprender e criar coisas.</p>
-
-<h3 align="left">Para entrar em contato:</h3>
+<h1 align="left">Para entrar em contato:</h1>
 <p align="left">📫 felipe14062000@gmail.com</p>
 <p align="left">
 <a href="https://linkedin.com/in/felipe-pinto-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-pinto-coder" height="30" width="40" /></a>
 </p>
 
+<div>
+  <h3 align="center">Linguagens e Ferramentas:</h3>
+</div>
 
 
-<h3 align="left">Linguagens e Ferramentas:</h3>
-<p align="left"> 
+<div align="center">
+  <a href="https://github.com/FP-Coding">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FP-Coding&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FP-Coding&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
+</div>
+<!-- <p align="left"> 
   
   <a href="https://www.gnu.org/software/bash/" target="_blank" rel="noreferrer"> 
   <img src="https://www.vectorlogo.zone/logos/gnu_bash/gnu_bash-icon.svg" alt="bash" width="40" height="40"/> 
@@ -70,21 +64,8 @@
     <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" alt="tailwind" width="40" height="40"/> 
   </a>
   
-</p>
+</p> -->
 
-
-<!--   <span>
-    <img align="left" width="30%" src="https://github-readme-stats.vercel.app/api/top-langs?username=fp-coding&show_icons=true&locale=en&layout=compact" alt="fp-coding" />
-  </span>
-
-  <span>
-    &nbsp;
-    <img align="center" width="30%" src="https://github-readme-stats.vercel.app/api?username=fp-coding&show_icons=true&locale=en" alt="fp-coding" />
-  </span>
-
-  <span>
-    <img align="right" width="30%"  src="https://github-readme-streak-stats.herokuapp.com/?user=fp-coding&" alt="fp-coding" />
-  </span> -->
 
 
 
