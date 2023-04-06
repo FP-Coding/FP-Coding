@@ -1,14 +1,20 @@
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=header"/>
+
 <h1 align="center">Olá,  pessoal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> 
   Sou o Felipe, um apaixonado por Tecnologia </h1>
 
 - 🌱 Atualmente estou estudando na Trybe **para me tornar um desenvolvedor FullStack**
 
-<h1 align="left">Para entrar em contato:</h1>
-<p align="left">📫 felipe14062000@gmail.com</p>
-<p align="left">
-<a href="https://linkedin.com/in/felipe-pinto-coder" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="felipe-pinto-coder" height="30" width="40" /></a>
-</p>
+  <h3 align="center">Para entrar em contato:</h1>
+  <div align="center">
 
+    <a href = "mailto:felipe14062000@gmail.com">
+      <img src="https://img.shields.io/badge/-Email-%23333?style=for-the-badge&logo=gmail&logoColor=white&colorA=gray&colorB=blueviolet" target="_blank">
+    </a>
+    <a href="https://www.linkedin.com/in/isa-hcosta/" target="_blank">
+      <img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white&colorA=gray&colorB=blueviolet" style="border-radius: 30px" target="_blank">
+    </a> 
+  <div />
 
   <h3 align="center">Linguagens e Ferramentas:</h3>
   <div align='center'>
@@ -36,14 +42,17 @@
   <img src="https://img.shields.io/badge/Chai-0b6b81?style=for-the-badge&logo=chai&logoColor=white&colorA=gray&colorB=blueviolet" />
   </div>
 
+<br/>
+<br/>
 
 <div align="center">
   <a href="https://github.com/FP-Coding">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FP-Coding&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FP-Coding&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
+    <p align='center'>
 </div>
 
-
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
 
 
 
