@@ -3,7 +3,7 @@
 <h1 align="center">Olá,  pessoal<img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="25px"> <br /> 
   Sou o Felipe, um apaixonado por Tecnologia </h1>
 
-- 🌱 Atualmente estou estudando na Trybe **para me tornar um desenvolvedor FullStack**
+- 🌱 Tenho 23 anos, sou uma pessoa curiosa e que gosta muito de aprender. Na metade de 2022 decidi migrar da área de design gráfico para a área de desenv olvimento de software. Para realizar essa transição de carreira, escolhi a Trybe para me dar apoio e conhecimento para enfrentar essa nova jornada. Estou muito feliz com essa escolha e estou a procura do meu primeiro emprego como desenvolvedor.
 
   <h3 align="center">Para entrar em contato:</h1>
   <div align="center">
@@ -47,13 +47,10 @@
 
 <div align="center">
   <a href="https://github.com/FP-Coding">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FP-Coding&show_icons=true&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FP-Coding&layout=compact&langs_count=7&hide_border=true&text_color=0b6b81&title_color=009DBE&bg_color=0D1017&icon_color=009DBE"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FP-Coding&show_icons=true&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=993399&icon_color=000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FP-Coding&layout=compact&langs_count=7&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=993399&icon_color=009DBE"/>
     <p align='center'>
 </div>
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=993399&height=120&section=footer"/>
-
-
-
 
