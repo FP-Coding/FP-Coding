@@ -47,8 +47,8 @@
 
 <div align="center">
   <a href="https://github.com/FP-Coding">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FP-Coding&show_icons=true&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=993399&icon_color=000000&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FP-Coding&layout=compact&langs_count=7&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=993399&icon_color=009DBE"/>
+    <img height="180em" src="https://github-readme-stats-fp-coding.vercel.app/api?username=FP-Coding&show_icons=true&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=993399&icon_color=000000&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-fp-coding.vercel.app/api/top-langs/?username=FP-Coding&layout=compact&langs_count=7&hide_border=true&text_color=ffffff&title_color=ffffff&bg_color=993399&icon_color=009DBE"/>
     <p align='center'>
 </div>
 
